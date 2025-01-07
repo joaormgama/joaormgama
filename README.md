@@ -1,6 +1,6 @@
 # Hi 👋, I'm João Gama
 
-![Programming](https://skillicons.dev/icons?i=dotnet,cs,angular,python,arduino,sqlite,mysql,gherkin,md,powershell,isualstudio,vscode,git,github,azure,docker,windows,linux,apple)
+![Programming](https://skillicons.dev/icons?i=dotnet,cs,angular,python,arduino,sqlite,mysql,gherkin,md,powershell,visualstudio,vscode,git,github,azure,docker,windows,linux,apple)
 
 ---
 
