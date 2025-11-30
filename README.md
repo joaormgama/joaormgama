@@ -4,4 +4,12 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaormgama&show_icons=true&theme=transparent&count_private=true&hide_border=true)
+> [!IMPORTANT]
+> TBD
+
+> [!WARNING]
+> TBD
+
+> [!NOTE]
+> TBD
+
